@@ -1,0 +1,40 @@
+.my-4{
+  color: #D31C1C !important;
+}
+#barra{
+  background-color: #D31C1C !important;
+}
+#barrafondo{
+  background-color: #D31C1C !important;
+}
+.card-header{
+  background-color: #D31C1C !important;
+  color: white;
+  text-align: center;
+}
+.destinos{
+  color: #D31C1C !important;
+}
+#promos{
+  background-color: #D31C1C !important;
+}
+#bord{
+  border-color: #D31C1C !important;
+}
+.footer {
+  background: #061D25;
+  padding: 10px 0;
+}
+.footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #70726F;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #70726F;
+}
+.footer a:hover {
+  color: white;
+}
